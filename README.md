@@ -5,4 +5,10 @@ To run this project, you need to download data from [this link](https://www.yout
 
 Download 'clt-data' and 'data', move them under project root directory.
 
+Run ```gh repo clone ERHUTUZI123/image_classification``` on terminal to clone this project to your computer.
+
+Run ```pip install -r requirements.txt``` on terminal to install required packages.
+
 Run ```main.py```.
+
+Happy classifying!
